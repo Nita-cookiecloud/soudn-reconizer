@@ -1,0 +1,55 @@
+.main1_div{
+    background-color: rgb(245, 219, 136);
+}
+.main_div{
+background-color:gold;
+}
+
+#footer{
+    background-color:lightblue;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    
+
+}
+
+body{
+    font-family:'Special Elite', cursive;
+    background:rgb(245, 219, 136)
+}
+
+.header_div
+{
+    background:white;
+    color:azure
+}
+
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    color:cornflowerblue;;
+    letter-spacing: 2px;
+    font-size:12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family:'Roboto', san-serif;
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:darkgrey;
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color:darksalmon;
+    line-height:3;
+    text-align:center;
+    text-shadow:  5px 5px 5px rgb(245, 219, 136);
+    
+}
